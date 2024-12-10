@@ -2561,7 +2561,7 @@ img {
   -webkit-text-fill-color: inherit;
   mix-blend-mode: normal;
   background-color: #161616;
-  background-image: url("../images/177.jpeg");
+  background-image: url("../images/178.png");
   background-position: 50%;
   background-repeat: repeat;
   background-size: cover;
@@ -2617,7 +2617,7 @@ img {
   position: fixed;
   inset: 0% 0% auto;
   overflow: visible;
-  box-shadow: 20px 0 10px #0003;
+  box-shadow: 20px 0 10px 1px #0003;
 }
 
 .text-block-2 {
@@ -2706,7 +2706,7 @@ img {
   color: #fff;
   text-align: center;
   -webkit-text-stroke-color: #fff;
-  text-shadow: -4px 0 10px #ffd6b99c;
+  text-shadow: -4px 0 10px #6795bb9c;
   white-space: normal;
   word-break: normal;
   -webkit-text-fill-color: inherit;
@@ -2773,7 +2773,7 @@ img {
   display: block;
   position: fixed;
   inset: 0%;
-  box-shadow: 20px 0 10px #0003;
+  box-shadow: 20px 0 10px 1px #0003;
 }
 
 .imagen2._2 {
@@ -2787,12 +2787,15 @@ img {
 }
 
 .image-6 {
+  background-image: url("../images/background-image.svg");
+  background-position: 0 0;
+  background-size: auto;
   margin-top: 250px;
   margin-right: -85px;
   display: block;
   position: fixed;
   inset: 0% 0% auto auto;
-  box-shadow: 20px 0 10px #0003;
+  box-shadow: 20px 0 10px 1px #0003;
 }
 
 .image-6.image5 {
