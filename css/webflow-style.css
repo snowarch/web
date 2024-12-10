@@ -2561,8 +2561,8 @@ img {
   -webkit-text-fill-color: inherit;
   mix-blend-mode: normal;
   background-color: #161616;
-  background-image: url("../images/68341f2024c5946dba8a80ff0e42ea35290bc26e.png");
-  background-position: 0 0;
+  background-image: url("../images/177.jpeg");
+  background-position: 50%;
   background-repeat: repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -2706,7 +2706,7 @@ img {
   color: #fff;
   text-align: center;
   -webkit-text-stroke-color: #fff;
-  text-shadow: -4px 0 10px #00ccff9c;
+  text-shadow: -4px 0 10px #ffd6b99c;
   white-space: normal;
   word-break: normal;
   -webkit-text-fill-color: inherit;
